@@ -1,6 +1,6 @@
 <img align="left" width="150" height="150" src="https://user-images.githubusercontent.com/24757020/148881544-32550dbc-acb5-4784-b07c-b3d6fe6f089d.png" alt="AB">
 
-# Scrabble
+# Scrabble - multilingual
 
 Scrabble game in C#, using <a href="https://en.wikipedia.org/wiki/Windows_Presentation_Foundation">WPF</a>. This is a standard, but imperfect 100-pieces version of Scrabble game. There are no "Challenge" option and "The Fifty Point Bonus" in this version of the game.
 
